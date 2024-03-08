@@ -1,2 +1,2 @@
 # penguin
-Penguing built using CSS transforms
+Penguing built using CSS transform properties
